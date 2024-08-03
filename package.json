@@ -4,7 +4,8 @@
   "description": "node practice",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "node index.js"
   },
   "keywords":[
     "node",
