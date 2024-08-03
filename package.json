@@ -6,6 +6,10 @@
   "scripts": {
     "test": "npm test"
   },
+  "keywords":[
+    "node",
+    "chai"
+  ],
   "author": "pratul",
   "license": "ISC"
 }
