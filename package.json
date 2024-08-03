@@ -1,0 +1,11 @@
+{
+  "name": "nodepractice",
+  "version": "0.0.1",
+  "description": "node practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "pratul",
+  "license": "ISC"
+}
